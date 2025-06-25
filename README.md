@@ -108,4 +108,20 @@ we will see this example:
 
 ![image](https://github.com/user-attachments/assets/2a19e02b-8e52-4495-a205-50682244753d)
 
+there is this in that file 
 
+![Image](https://github.com/user-attachments/assets/832efbba-b9db-45ef-92ab-1a703e71bdf6)
+
+after that we get a success proof.
+
+![Image](https://github.com/user-attachments/assets/832efbba-b9db-45ef-92ab-1a703e71bdf6)
+
+then we get the encrypted file.
+
+![Image](https://github.com/user-attachments/assets/b7bbac77-8722-43cd-bee6-e2b3b4b1678d)
+
+so ther ethe encryption.
+
+![Image](https://github.com/user-attachments/assets/57ddb9c5-d7a4-41c8-ab09-16627afa42f7)
+
+IT WORKS
