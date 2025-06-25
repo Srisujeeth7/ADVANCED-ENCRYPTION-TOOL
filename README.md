@@ -29,7 +29,8 @@ Provides a GUI (Graphical User Interface) to make the tool accessible to non-tec
 
 Ensures that no sensitive data (like passwords) is stored insecurely or logged during usage.
 
-🔧 Tools & Technologies Used
+## Tools & Technologies Used.
+
 Programming Language: Python
 
 Encryption Library: cryptography (uses PBKDF2, Fernet, AES under the hood)
@@ -96,4 +97,15 @@ Implementing security best practices (e.g., using salts, securing password entry
 
 ## Conclusion.
 The Advanced Encryption Tool is a powerful demonstration of how strong cryptographic practices can be combined with user-friendly design to create secure software. By using AES-256 encryption and Python’s cryptography library, this tool offers a practical solution for file protection that balances technical strength with usability. It serves as an excellent foundation for future enhancements such as folder encryption, drag-and-drop support, or even web-based encryption services.
+
+# OUTPUT.
+
+![Image](https://github.com/user-attachments/assets/a088d878-a615-428f-b05f-ebe97dd04920)
+
+The tkinter ask me to enter the password and after we enter the password then is ask me to select a folder any txt to encrypt it:
+
+we will see this example:
+
+![image](https://github.com/user-attachments/assets/2a19e02b-8e52-4495-a205-50682244753d)
+
 
